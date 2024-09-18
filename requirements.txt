@@ -1,0 +1,8 @@
+kaggle
+fastapi
+uvicorn
+scikit-learn
+ipykernel
+jupyter
+pandas
+joblib
