@@ -6,3 +6,15 @@ ipykernel
 jupyter
 pandas
 joblib
+
+numpy
+matplotlib
+seaborn
+python-dotenv
+nltk
+pydantic
+langchain-community
+langchain-openai
+langchain
+youtube_transcript_api
+pytube
